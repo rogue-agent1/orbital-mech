@@ -1,10 +1,11 @@
-# Orbital Mech
+# orbital-mech
 
-A zero-dependency Python CLI tool.
+Orbital mechanics calculator (Kepler, Hohmann transfer, vis-viva).
 
 ## Usage
 
 ```bash
-python orbital_mech.py test
-python orbital_mech.py demo
+python3 orbital_mech.py test
 ```
+
+Zero dependencies. Python 3.8+.
